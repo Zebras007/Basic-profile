@@ -1,0 +1,29 @@
+body{
+    background-image: url(./R.jpg);
+}
+.basic_details{
+    text-align: center;
+}
+.profile{
+    border:2px solid red;
+    width: 200px;
+}
+.basic_detailsh1{
+    color: purple;
+    margin-bottom:0;
+}
+.basic_details h3{
+    color:#02041e;
+}
+h3{
+    color: rgb(186, 226, 43);
+    margin-top:0;
+}
+.contact{
+    background-color: rgb(73, 149, 231);
+    padding: 10px 0;
+    
+}
+.contact_details{
+    display: flex;
+}
